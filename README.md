@@ -6,9 +6,8 @@ Hi! Myself Jagadishwar Reddy(5013845),this readme files contains my certificates
 
 
 
-\## My CERTIFICATES
-
-\[Agile completion screenshot](AGILE.jpg)
+## My CERTIFICATES
 
 
 
+![Agile completion screenshot](<AGILE -1.jpg>)
