@@ -18,3 +18,9 @@ ________________________________________________________________________________
  
 
  ![Image](https://github.com/user-attachments/assets/e308d6dd-7600-4ab8-80e2-0934475a0972)
+
+ _________________________________________________________________________________________________
+ 
+ ## LINUX PRACTICE HISTORY:
+
+ ![history.txt](https://github.com/user-attachments/files/21490861/history.txt)
