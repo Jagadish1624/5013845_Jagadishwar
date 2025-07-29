@@ -1,0 +1,512 @@
+    1  cd c:
+    2  cd D
+    3  cd D:/
+    4  cd D:cd 
+    5  cd gitbyLtts
+    6  cd D
+    7  cd D:cd gitbyLtts
+    8  D:\git by LTTS
+    9  D:\git by LTTS\
+   10  root
+   11  cd D:\
+   12  cd D:\git by LTTS
+   13  ls
+   14  xdg-open /D:/
+   15  sudo su
+   16  whoami
+   17  date
+   18  ls
+   19  mkadir
+   20  mkdir
+   21  D:\git by LTTS
+   22  cd desktop
+   23  cd
+   24  pwd
+   25  mkdir linuxbyltts
+   26  cd linuxbyltts/
+   27  touch ltts
+   28  pwd
+   29  cd downloads
+   30  whoami
+   31  date
+   32  time
+   33  echo $SHELL
+   34  whoami
+   35  whatiscat
+   36  whatis cat
+   37  whatis gcc
+   38  whereis cat
+   39  whatis gcc
+   40  sudo mandb
+   41  whatis gcc
+   42  man gcc
+   43  whatis gcc
+   44  whereis cat
+   45  whereis gcc
+   46  clear
+   47  sudo updatedb
+   48  sudo apt upgrade
+   49  sudo apt install bulid-essential
+   50  sudo apt upgrade
+   51  sudo apt install bulid-essential
+   52  sudo apt install gcc
+   53  sudo apt update
+   54  sudo apt install bulid-esential
+   55  sudo apt install bulid-essential
+   56  sudo apt install g++
+   57  sudo apt update
+   58  date; uname -r; whoami
+   59  clear
+   60  cd "/mnt/d/git by LTTS"
+   61  ls
+   62  pwd
+   63  mkdir Reddy
+   64  ls
+   65  cd Reddy/
+   66  pwd
+   67  cp Reddy Reddy1
+   68  ls
+   69  touch 1st.txt
+   70  touch 2nd.txt
+   71  cp 1st.txt 2nd.txt
+   72  ls
+   73  mv 1st.txt frist.c
+   74  ls
+   75  echo frist.c
+   76  cat frist.c
+   77  echo "int main(){
+   78  int a=0;
+   79  int b=0;
+   80  }
+   81  q
+   82  " frist.c
+   83  cat frist.c
+   84  echo "int main(){
+   85  int a=0;
+   86  int b=0;
+   87  }
+   88  q
+   89  " >frist.c
+   90  cat frist.c
+   91  vi frist.c
+   92  cat frist.c
+   93  uname
+   94  locate 2nd.txt
+   95  rm 2nd.txt
+   96  locate 2nd.txt
+   97  locale 2nd.txt
+   98  locate 2nd.txt
+   99  updatedb
+  100  locate frist.c
+  101  sudo apt update
+  102  sudo apt install mlocate
+  103  sudo updatedb
+  104  sudo apt install plocate
+  105  sudo apt update
+  106  locate 2nd.txt
+  107  locate frist.c
+  108  touch 2nd.txt
+  109  locate 2nd.txt
+  110  echo "Hiiiii Reddddddy" > 2nd.txt
+  111  cat 2nd.txt
+  112  locate 2nd.txt
+  113  locate frist.c
+  114  locate 2nd.txt
+  115  ls
+  116  pwd
+  117  sudo apt install gcc
+  118  date
+  119  sudo apt install g++
+  120  sudo apt install bulid-essential
+  121  sudo apt update
+  122  date "+%D %T"
+  123  date "+%D %T %Y - %m - %d"
+  124  date "+%D %T %Y/%m/%d"
+  125  date "+%D %T %Y"
+  126  date "+%A %B %d %Y %T"
+  127  date "+%A %B %C %D %E"
+  128  info date
+  129  date --date "6 years ago"
+  130  date --date "184 years ago"
+  131  date --date "84 years ago"
+  132  bc
+  133  bc <<< "2+3"
+  134  ls
+  135  pwd
+  136  rm linuxbyllts
+  137  rmdir linuxbyllts
+  138  rmdir linuxbyltts
+  139  rm -r linuxbyltts
+  140  ls
+  141  rm -rf linuxbyltts
+  142  clear
+  143  uname
+  144  uname -o
+  145  uname -i
+  146  uname -n
+  147  uname -v
+  148  uname -s
+  149  uname -m
+  150  uname -r
+  151  uname -a
+  152  whatis echo
+  153  whatis gcc
+  154  echo "welcome"
+  155  echo ""welcome""
+  156  echo "/"welcome"/"
+  157  echo "\"welcome"\"
+  158  echo ~ date
+  159  echo ` date
+  160  `
+  161  whatis touch
+  162  whatis clone
+  163  whatis merge
+  164  whatis ls
+  165  whatis ln
+  166  whatis rm
+  167  whatis mkdir
+  168  clear
+  169  info echo
+  170  sequence
+  171  whatis sequence
+  172  whatis seq
+  173  seq A z
+  174  seq A Z
+  175  seq 1 1 100
+  176  seq -s ' '1 1 100
+  177  seq -s ' ' 1 1 100
+  178  seq -s ' ' 1 6 100
+  179  seq -s ' ' 5 3 15
+  180  rev <<< linux
+  181  rev Reddy
+  182  rev <<< Reddy
+  183  seq -s ' ' 1 6 100000
+  184  clear
+  185  rev <<< linux
+  186  rev <<< To print all numbers in one line using the seq command, use the -s option to specify the separator.
+  187  rev --help
+  188  history
+  189  history 10
+  190  rev <<< linux
+  191  root
+  192  ! 10
+  193  date --date "84 years ago"
+  194  echo $?
+  195  sudo ato install nano
+  196  sudo atp install nano
+  197  sudo atp install vim
+  198  sudo atp install nano
+  199  nano text
+  200  sudo atp upgrade
+  201  sudo atp update
+  202  emacs
+  203  sudo snap install emacs
+  204  nano test
+  205  ls
+  206  cd test
+  207  sudo apt update
+  208  sudo apt install gedit
+  209  sudo apt install gedit -y
+  210  mkdir stepin
+  211  cd stepin
+  212  mkdir sdlc git linux
+  213  ls
+  214  cd sdlc
+  215  mkdir -p models/agile
+  216  ls
+  217  cd model
+  218  cd models
+  219  ls
+  220  cd..
+  221  cd ..
+  222  cd
+  223  cd -
+  224  cd
+  225  ls
+  226  gedit &
+  227  sudo apt install emacs -y
+  228  sudo apt update
+  229  sudo apt install mousepad -y
+  230  ls -a
+  231  ls -r
+  232  cd stepin
+  233  ls -r
+  234  ls -R
+  235  sudo apt install kate -y
+  236  la -a -
+  237  la -a ~
+  238  sudo apt purge emacs
+  239  sudo apt install emacs
+  240  sudo apt update
+  241  clear 
+  242  nano cicd
+  243  cat cicd
+  244  wc cicd
+  245  ls
+  246  rm cicd
+  247  ls
+  248  gedit test
+  249  cat test
+  250  rm test
+  251  ls
+  252  nano test
+  253  cp test stepin
+  254  cd
+  255  cd stepin
+  256  ls
+  257  rm stepin
+  258  ls
+  259  cd
+  260  cp test sdlc
+  261  cd stepin
+  262  cd sdlc/
+  263  ls
+  264  cp -r test linux
+  265  cd
+  266  cp -r test linux
+  267  cd stepin
+  268  cd linux
+  269  ls
+  270  cd ..
+  271  ls
+  272  cd
+  273  rm t*
+  274  ls
+  275  cd stepin/
+  276  ls
+  277  rm n*
+  278  rm t*
+  279  ls
+  280  cd
+  281  rm linux
+  282  rm sdlc
+  283  ls
+  284  history
+  285  clear
+  286  date
+  287  bc
+  288  date
+  289  sudo apt update
+  290  sudo apt upgrade
+  291  sudo apt install gcc
+  292  sudo apt install g++
+  293  sudo apt install build-essential
+  294  sudo apt install g++
+  295  sudo apt install ncal
+  296  sudo apt upgrade
+  297  sudo apt update
+  298  date
+  299  date "+%D"
+  300  date "+%D %T"
+  301  date "+%Y-%M-%d"
+  302  date "+%Y-%m-%d"
+  303  date "+%A %B %Y-%m-%d"
+  304  date --date "tommorow"
+  305  date --date "tomorrow"
+  306  date --date "84 years ago"
+  307  cal 
+  308  cal 5 2025,
+  309  cal 5 2025
+  310  cal 2025
+  311  cal -3
+  312  echo $SHELL
+  313  printenv SHELL
+  314  echo "Text"
+  315  echo -e "Hello \t world"
+  316  echo -n"Hello"
+  317  echo -n "Hello"
+  318  echo "\date"
+  319  echo '\date'
+  320  echo 'date'
+  321  echo \date``
+  322  echo `\date`
+  323  printf
+  324  bc <<< 2+3
+  325  bc <<< 2>3
+  326  bc <<< "2>3"
+  327  bc <<< "27>3"
+  328  uname
+  329  uname -a
+  330  uname -r
+  331  uname -R
+  332  uname -s
+  333  uname -m
+  334  uname -n
+  335  uname -v
+  336  uname -i
+  337  whoami
+  338  whatis cat
+  339  whereis cat
+  340  ls
+  341  ls -l
+  342  notchup
+  343  Notchup
+  344  echo &?
+  345  echo $?
+  346  ls
+  347  echo $?
+  348  touch sum.c
+  349  rm sum.c
+  350  touch sum.c
+  351  echo "#include <stdio.h> // Includes the standard input/output library
+  352  int main() {
+  353      int num1, num2, sum; // Declares three integer variables
+  354      // Prompts the user to enter two integers
+  355      printf("Enter two integers: ");
+  356      // Reads the two integers entered by the user
+  357      scanf("%d %d", &num1, &num2);
+  358      // Calculates the sum of the two numbers
+  359      sum = num1 + num2;
+  360      // Prints the calculated sum
+  361      printf("Sum: %d\n", sum);
+  362      return 0; // Indicates successful program execution
+  363  }" > sum.c
+  364  cat sum.c
+  365  gcc sum.c
+  366  rm sum.c
+  367  cd stepin
+  368  touch sum.c
+  369  rm sum.c
+  370  ls
+  371  cd linux
+  372  nano sum.c
+  373  gcc sum.c
+  374  gcc sum.c -o output
+  375  ls
+  376  ./a.out
+  377  cat sum.c
+  378  ./output
+  379  gdb ./output
+  380  sudo apt install gdb
+  381  sudo apt update
+  382  mv sum.c a.out stepin
+  383  mv sum.c a.out ../sdlc
+  384  cd..
+  385  cd ..
+  386  cd sdlc/
+  387  ls
+  388  cp sum.c /stepin/sumbackup.c
+  389  cp sum.c /home/jagadishwar/stepin/sumbackup.c
+  390  cp sum.c ~/stepin/sumbackup.c
+  391  cd ..
+  392  ls
+  393  cp a.out ~/stepin/sumbackup.out
+  394  cd sdlc/
+  395  cp a.out ~/stepin/sumbackup.out
+  396  cd ..
+  397  ls
+  398  touch index.html
+  399  echo"
+  400  <html>
+  401      <head>
+  402          <title>My web page</title>
+  403      </head>
+  404      <body>
+  405          <p>This is my first web page.</p>
+  406          <p>It contains a 
+  407               <strong>main heading</strong> and <em> paragraph </em>.
+  408          </p>
+  409      </body>
+  410  </html>"
+  411  echo"
+  412  <html>
+  413      <head>
+  414          <title>My web page</title>
+  415      </head>
+  416      <body>
+  417          <p>This is my first web page.</p>
+  418          <p>It contains a 
+  419               <strong>main heading</strong> and <em> paragraph </em>.
+  420          </p>
+  421      </body>
+  422  </html>" > index.html
+  423  cp index.html ~/stepin/git/back.html
+  424  cd git/
+  425  ls
+  426  google-chrome back.html
+  427  sudo apt install firefox
+  428  sudo apt install google-chrome
+  429  google-chrome back.html
+  430  firfox back.html
+  431  explorer.exe index.html
+  432  firefox back.html
+  433  explorer.exe index.html
+  434  pwd
+  435  cat back.html
+  436  cd ..
+  437  ls
+  438  cat index.html
+  439  <html>
+  440  </html>" > index.html
+  441  q
+  442  clear
+  443  wq
+  444  exit
+  445  `
+  446  history
+  447  cd stepin/
+  448  ls
+  449  <html>
+  450  </html> " >>index.html
+  451  set +H
+  452  nano index.html
+  453  <html>
+  454      <head>
+  455          <title>My web page</title>
+  456      </head>
+  457      <body>
+  458          <p>This is my first web page.</p>
+  459          <p>It contains a 
+  460               <strong>main heading</strong> and <em> paragraph </em>.
+  461          </p>
+  462      </body>
+  463  </html> 
+  464  EOF
+  465  !
+  466  :wq
+  467  cs stepin/
+  468  cd stepin/
+  469  ls
+  470  rm index.html 
+  471  nano index.html
+  472  cat index.html
+  473  cd git/
+  474  ls
+  475  rm back.html
+  476  cd ..
+  477  cp index.html ~/stepin/git/back.hml
+  478  cd git/
+  479  ls
+  480  explorer.exe back.html
+  481  mv back.html index1.html
+  482  cd ..
+  483  mv git ~/stepin/linux/new git
+  484  mv git ~/stepin/linux/
+  485  ls
+  486  cd linux/
+  487  ls
+  488  history
+  489  mkdir new
+  490  ls
+  491  cd new
+  492  cd ..
+  493  mv new ~/stepin/
+  494  ls
+  495  tac output
+  496  cd git
+  497  ls
+  498  tac back.html
+  499  cd ..
+  500  mv git ~/stepin/
+  501  cd ..
+  502  ls
+  503  tac sumbackup.c
+  504  rm -n*
+  505  rm n*
+  506  rmdir n*
+  507  ls
+  508  clear
+  509  history
+  510  git status
+  511  history > ~/stepin/
+  512  history > ~/stepin/history.txt
