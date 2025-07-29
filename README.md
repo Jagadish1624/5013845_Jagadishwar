@@ -23,4 +23,4 @@ ________________________________________________________________________________
  
  ## LINUX PRACTICE HISTORY:
 
- ![history.txt](https://github.com/user-attachments/files/21490861/history.txt)
+ [history.txt](https://github.com/user-attachments/files/21490861/history.txt)
