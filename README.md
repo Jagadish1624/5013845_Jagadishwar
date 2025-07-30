@@ -32,3 +32,9 @@ Hi! Myself Jagadishwar Reddy(5013845),this readme files contains my certificates
 <img src="https://github.com/user-attachments/assets/03e2588e-fab7-47cd-8909-5dca895bd3b5" alt="Linux History 8" width="300"/>
 <img src="https://github.com/user-attachments/assets/5cec93cc-cac8-475f-8961-4e0711608fa6" alt="Linux History 9" width="300"/>
 <img src="https://github.com/user-attachments/assets/2d2c666e-6d2e-4c30-9e24-956663e6f45a" alt="Linux History 10" width="300"/>
+<img src="https://github.com/user-attachments/assets/64f78ae5-5a7d-4167-918b-134f91455bb4" alt="Linux History 11" width="300"/>
+<img src="https://github.com/user-attachments/assets/a3e99c5e-b5da-42c9-b8c3-42cee51d0607" alt="Linux History 12" width="300"/>
+<img src="https://github.com/user-attachments/assets/dc72e496-cfef-4ca8-b5a5-c87ebc1cf094" alt="Linux History 13" width="300"/>
+<img src="https://github.com/user-attachments/assets/deab4be4-5e15-4291-a4d0-a21664903a61" alt="Linux History 14" width="300"/>
+<img src="https://github.com/user-attachments/assets/aadd5a47-f866-4820-8a99-827a995fc97b" alt="Linux History 15" width="300"/>
+
