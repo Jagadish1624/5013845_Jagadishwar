@@ -510,3 +510,186 @@
   510  git status
   511  history > ~/stepin/
   512  history > ~/stepin/history.txt
+  513  ls
+  514  cat history.txt 
+  515  ls 
+  516  cd stepin/
+  517  ls
+  518  vi index.html
+  519  touch add.c
+  520  vi add.c
+  521  gcc add.c
+  522  vi add.c
+  523  gcc add.c && add
+  524  gcc add.c
+  525  ls
+  526  cat a.out
+  527  a.out
+  528  clear
+  529  ./a.out
+  530  cat add.c
+  531  gcc add.c -o add
+  532  ./add
+  533  rm *a
+  534  rm add.c a.out add
+  535  ls
+  536  more index.html
+  537  nano index.html
+  538  vi file.txt
+  539  ls
+  540  more file.txt
+  541  vi file.txt
+  542  less file.txt
+  543  more file.txt
+  544  head file.txt
+  545  head -n 5 file.txt
+  546  tail -n 5 file.txt
+  547  tail -n 20 file.txt
+  548  tail +5 file.txt
+  549  vi file.txt
+  550  info cut
+  551  clear
+  552  nano sample.txt
+  553  wc sample.txt
+  554  cut -c 1-3 sample.txt
+  555  cut sample.txt
+  556  cut -c 4-10 sample.txt
+  557  cut sample.txt
+  558  cat sample.txt
+  559  cut -d ':' -f2 sample.txt
+  560  cut -d ':' -f2,3 sample.txt
+  561  ls
+  562  nan0 f1
+  563  nano f1
+  564  nano f2
+  565  cat f1
+  566  cat f2
+  567  paste f1 f2
+  568  paste f1  f2
+  569  paste -df1:f2
+  570  paste -d':f1 f2
+  571  paste -d ':' f1 f2
+  572  ls
+  573  cd stepin
+  574  ls
+  575  paste -d ':' f1 f2
+  576  paste -s f1 f2
+  577  cat sample.txt
+  578  sort sample.txt
+  579  sort sample.txt -r
+  580  sort -t ':' -k2 sample.txt
+  581  sort -t `:` -k2 sample.txt
+  582  sort -t ':' -k2 sample.txt
+  583  tr ':' '|' < sample.txt
+  584  sort -t '|' -k2 sample.txt
+  585  tr ':' '|' < sample.txt > s1.txt
+  586  cat s1.txt 
+  587  tr ':0' '|$' < sample.txt
+  588  tr ':0' '|$' < sample.txt > s2.txt
+  589  ls
+  590  cat s2.txt 
+  591  clear
+  592  tr -s '0' < sample.txt
+  593  cat sample.txt
+  594  tr -d '0' < sample.txt
+  595  info uniq
+  596  nano example.txt
+  597  uniq example.txt
+  598  nano example.txt
+  599  uniq example.txt
+  600  nano example.txt
+  601  uniq example.txt
+  602  cat sample.txt
+  603  cat s1.txt
+  604  cat s2.txt
+  605  cmp s1.txt s2.txt sample.txt
+  606  cmp s1.txt s2.txt 
+  607  cmp sample.txt s1.txt 
+  608  diff sample.txt s1.txt
+  609  info grep
+  610  ls
+  611  nano test.c
+  612  grep main test.c
+  613  gcc test.c &&./a.out
+  614  nano test.c
+  615  gcc test.c &&./a.out
+  616  nano test.c
+  617  gcc test.c &&./a.out
+  618  grep main test.c
+  619  grep ^int test.c
+  620  grep ^main test.c
+  621  grep ^; test.c
+  622  grep ';' test.c
+  623  sed
+  624  clear
+  625  nano sed_test
+  626  sed 's/hello/hi' sed_tset
+  627  sed 's/Hello/hi' sed_tset
+  628  sed 's/Hello/hi/' sed_tset
+  629  sed -i 's/Hello/hi/' sed_test
+  630  cat sed
+  631  cat sed_test
+  632  sed -i 's/hi/Hello/' sed_test
+  633  sed 's/!/$/g' sed_test
+  634  sed '/simple/d' sed_test
+  635  sed '/Hello/ A welcome to sed ' sed_test
+  636  sed '/Hello/ a welcome to sed ' sed_test
+  637  sed '/a welcome to sed/d' sed_test
+  638  sed - '/Hello/p' sed_test
+  639  sed -n '/Hello/p' sed_test
+  640  nano sed_test
+  641  sed 's/Hello/Hi/' sed_test
+  642  sed -i 's/Hello/Hi/' sed_test
+  643  cat sed_test
+  644  sed -n '/Hi/p' sed_test
+  645  clear
+  646  vi emp.txt
+  647  cat emp.txt
+  648  awk '{print $0}' emp.txt
+  649  awk '{print $1, $3}' emp.txt
+  650  awk $3>=50000'{print $1, $3}' emp.txt
+  651  awk '$3>=50000 {print $1, $3}' emp.txt
+  652  awk '$3>50000 {print $1, $3}' emp.txt
+  653  awk'BEGIN {print"Name: Salary: "} {print $1,$3}' emp.txt
+  654  awk 'BEGIN {print"Name: Salary: "} {print $1,$3}' emp.txt
+  655  awk 'BEGIN {print"Name  Salary "} {print $1,$3}' emp.txt
+  656  awk 'BEGIN {print"Name  Age  Salary "} {print $1, $2, $3}' emp.txt
+  657  awk 'BEGIN {print"Name  Age  Salary "} {print $1,  $2,  $3}' emp.txt
+  658  awk '{total+=$3} END {print "Total Salary=", total}' emp.txt
+  659  awk '{print $0}' emp.txt
+  660  awk '
+  661  {print NR, $1}' emp.txt
+  662  awk '
+  663  {print NR, $0}' emp.txt
+  664  nano emp.txt
+  665  awk '
+  666  {print NR, $0}' emp.txt
+  667  awk '/Bob/' emp.txt
+  668  awk '$2 
+  669  <30 {print $1, $2}' emp.txt
+  670  awk '$2 < 30 {print $1, $2}' emp.txt
+  671  cs stepin/
+  672  cd stepin/
+  673  ls -l s1.txt
+  674  chmod 644 s1.txt
+  675  -rw-r--r-- 1 jagadishwareddy jagadishwareddy 118 Jul 30 06:30 s1.txt
+  676  chmod u+x s1.txt
+  677  ls -l s1.txt
+  678  chmod g+x s1.txt
+  679  ls -l s1.txt
+  680  chmod o-r s1.txt
+  681  ls -l s1.txt
+  682  chmod 642 s1.txt
+  683  ls -l s1.txt
+  684  ls
+  685  ls -l git
+  686  chmod u+x git
+  687  ls -l git
+  688  ls -ld git
+  689  chmod u+x git
+  690  chmod o+r,w git
+  691  chmod o+r git
+  692  ls -ld git
+  693  chmod o+w git
+  694  ls -ld git
+  695  history
