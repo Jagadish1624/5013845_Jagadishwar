@@ -38,3 +38,8 @@ Hi! Myself Jagadishwar Reddy(5013845),this readme files contains my certificates
 <img src="https://github.com/user-attachments/assets/deab4be4-5e15-4291-a4d0-a21664903a61" alt="Linux History 14" width="300"/>
 <img src="https://github.com/user-attachments/assets/aadd5a47-f866-4820-8a99-827a995fc97b" alt="Linux History 15" width="300"/>
 
+
+<h2>C programming</h2>
+
+<img src="https://github.com/user-attachments/assets/7e2db302-61b6-4c69-af08-cd54364a49fd" alt="Introduction to c" width="500">
+
