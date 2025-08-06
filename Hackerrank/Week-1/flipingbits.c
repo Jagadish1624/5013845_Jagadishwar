@@ -1,6 +1,6 @@
 #include<stdio.h>
 unsigned int flipping(unsigned int n){
-    return 4294967295U -n;//return n ^ 0xFFFFFFFF;
+    return ~n;//4294967295U -n;//return n ^ 0xFFFFFFFF;
 }
 int main(){
 int t;
