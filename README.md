@@ -43,6 +43,6 @@ Hi! Myself Jagadishwar Reddy(5013845),this readme files contains my certificates
 
 <img src="https://github.com/user-attachments/assets/7e2db302-61b6-4c69-af08-cd54364a49fd" alt="Introduction to c" width="500">
 
-<img src="https://github.com/user-attachments/assets/06fe5d14-bff6-4a09-863b-8fda1bbe02e7" alt="C Intermidate " width="500">
+<img src="https://github.com/user-attachments/assets/06fe5d14-bff6-4a09-863b-8fda1bbe02e7" alt="C Intermediate " width="500">
 
 
