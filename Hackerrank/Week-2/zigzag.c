@@ -25,7 +25,6 @@ void zigzag(int arr[],int n){
         printf("%d",arr[i]);
     }
 }
-
 int main() {
     int t;
     scanf("%d",&t);
@@ -34,15 +33,9 @@ int main() {
         scanf("%d",&n);
         int arr[n];
         for (int i=0; i<n; i++) {
-        
-        
         scanf("%d",&arr[i]);
         }
-    
-    
     zigzag(arr,n);
-    
     }
-    return 0;
-    
+    return 0;   
 }
