@@ -1,7 +1,7 @@
-object : main.c def.c test.c unity.c
+object : def.c test.c unity.c
 	gcc $^ -c
 
-all : main.o def.o test.o unity.o
+all : def.o test.o unity.o
 	gcc $^ -o all.out
 
 run : all

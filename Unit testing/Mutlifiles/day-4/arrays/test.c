@@ -5,7 +5,7 @@ void setUp(){}
 void tearDown(){}
 void test_max_with_positive_numbers(){
     int arr[] ={1,9,199,5,2};
-    TEST_ASSERT_EQUAL(199,find_max(arr, 5));
+    TEST_ASSERT_EQUAL_INT(199,find_max(arr, 5));
 }
 void test_max_with_negitive_numbers(){
     int arr[]={-1,-44,0,-1999,-2};
